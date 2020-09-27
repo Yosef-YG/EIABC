@@ -1,3 +1,3 @@
 # EIABC
 
-Computer Programming and Application 
+<h1> Computer Programming and Application </h1>
