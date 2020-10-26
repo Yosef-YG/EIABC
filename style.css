@@ -169,3 +169,16 @@
     font-weight: bolder;
 
   }
+  .heading {
+        font-weight: lighter; 
+         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+         text-align: center;
+  }
+  .paraH {
+    font-family: Georgia, 'Times New Roman', Times, serif; line-height: 25px;
+  }
+  .Ass {
+    width: 50%;
+    margin: auto;
+    background-color: #f4f4f4;
+  }
