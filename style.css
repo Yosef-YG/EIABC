@@ -139,10 +139,15 @@
     flex: 30%;
     background-color: #f1f1f1;
     padding: 20px;
-    width: 200px;
+    width: 180px;
     margin-top: -42px;
   }
-  .aside{
+  .asid{
+    text-align: center;
+    font-weight: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .aside {
     text-align: center;
   }
   .fakeimg {
@@ -153,7 +158,7 @@
   table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
-    width: 100%;
+    width: 80%;
   }
   
   td, th {
@@ -165,7 +170,7 @@
   tr:nth-child(even) {
     background-color: white;
   }
-  .summary {font-size: 1.5em;
+  .summary {font-size: 1.17em;
     font-weight: bolder;
 
   }
@@ -182,4 +187,7 @@
     margin: auto;
     background-color: #f4f4f4;
     margin-top: -20px;
+  }
+  .table {
+    font-size: 15px;
   }
