@@ -178,7 +178,8 @@
     font-family: Georgia, 'Times New Roman', Times, serif; line-height: 25px;
   }
   .Ass {
-    width: 50%;
+    width: 70%;
     margin: auto;
     background-color: #f4f4f4;
+    margin-top: -20px;
   }
