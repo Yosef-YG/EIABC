@@ -137,7 +137,7 @@
   .side {
     -ms-flex: 30%; 
     flex: 30%;
-    background-color: #f1f1f1;
+    background-color: white;
     padding: 20px;
     width: 180px;
     margin-top: -42px;
@@ -156,9 +156,11 @@
     padding: 20px;
   }
   table {
-    font-family: arial, sans-serif;
+    font-family: "Nunito Sans",sans-serif;  line-height: 25px; font-size: 17px;
+    color: #3a3838;
     border-collapse: collapse;
     width: 80%;
+    text-align: center;
   }
   
   td, th {
@@ -170,8 +172,7 @@
   tr:nth-child(even) {
     background-color: white;
   }
-  .summary {font-size: 1.17em;
-    font-weight: bolder;
+  .summary { font-size: 1.17em ;
 
   }
   .heading {
@@ -180,9 +181,18 @@
          text-align: center;
   }
   .paraH {
-    font-family: Georgia, 'Times New Roman', Times, serif; line-height: 25px;
+    font-family: "Nunito Sans",sans-serif;  line-height: 25px; font-size: 17px;
+    color: #3a3838;
   }
-  .Ass {
+  .parag{
+    font-family: "Nunito Sans",sans-serif;  line-height: 28px; font-size: 17px;
+    color: #3a3838;
+  }
+  .paragb{
+    font-family: "Nunito Sans",sans-serif;  line-height: 28px; font-size: 17px;
+    color: #3a3838; width: 80% ; text-align: justify; margin: auto;
+  }
+  .Ass1 {
     width: 70%;
     margin: auto;
     background-color: #f4f4f4;
