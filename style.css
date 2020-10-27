@@ -184,6 +184,24 @@
     font-family: "Nunito Sans",sans-serif;  line-height: 25px; font-size: 17px;
     color: #3a3838;
   }
+  .paragA {font-family: "Nunito Sans",sans-serif;  line-height: 25px; font-size: 17px;
+    color: #3a3838;
+    text-align: justify;
+   }
+   .content {font-family: "Nunito Sans",sans-serif;  line-height: 25px; font-size: 17px;
+    color: #3a3838;
+   }
+   .sideco {
+     float: right;
+     margin-top: 50px;
+     width: 15%;
+     margin-right: 50px;
+     background-color: #f9f9f9;
+     position: fixed;
+     top: 10%;
+     right: 5%;
+     
+   }
   .parag{
     font-family: "Nunito Sans",sans-serif;  line-height: 28px; font-size: 17px;
     color: #3a3838;
@@ -193,10 +211,10 @@
     color: #3a3838; width: 80% ; text-align: justify; margin: auto;
   }
   .Ass1 {
-    width: 70%;
-    margin: auto;
-    background-color: #f4f4f4;
+    width: 65%;
+    float: left;
     margin-top: -20px;
+    margin-left: 20px;
   }
   .table {
     font-size: 15px;
