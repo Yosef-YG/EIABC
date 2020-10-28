@@ -181,14 +181,19 @@
          text-align: center;
   }
   .paraH {
-    font-family: "Nunito Sans",sans-serif;  line-height: 25px; font-size: 17px;
-    color: #3a3838;
+    font-family: "Nunito Sans",sans-serif;  line-height: 29px; font-size: 18px;
+    color: #3a3838; text-align: justify;
   }
-  .paragA {font-family: "Nunito Sans",sans-serif;  line-height: 25px; font-size: 17px;
+  .paragA {font-family: "Nunito Sans",sans-serif;  line-height: 29px; font-size: 18px;
     color: #3a3838;
     text-align: justify;
    }
-   .content {font-family: "Nunito Sans",sans-serif;  line-height: 25px; font-size: 17px;
+   .content {font-family: "Nunito Sans",sans-serif;  line-height: 30px; font-size: 21px;
+    color: #3a3838; 
+    margin-left: 50px;
+    background-color: #f4f4f4;
+   }
+   .body {font-family: "Nunito Sans",sans-serif;  line-height: 30px; font-size: 21px;
     color: #3a3838;
    }
    .sideco {
@@ -196,25 +201,30 @@
      margin-top: 50px;
      width: 15%;
      margin-right: 50px;
-     background-color: lightskyblue;
      position: fixed;
-     top: 6%;
+     top: 15%;
      right: 1%;
-     
+     font-family: "Nunito Sans",sans-serif;  line-height: 30px; font-size: 15px;
+    color: #3a3838;
+    opacity: 50%;
+    color: blue;
+   }
+   .sideco:hover{
+       opacity: 100%;
    }
   .parag{
-    font-family: "Nunito Sans",sans-serif;  line-height: 28px; font-size: 17px;
-    color: #3a3838;
+    font-family: "Nunito Sans",sans-serif;  line-height: 29px; font-size: 18px;
+    color: #3a3838; text-align: justify;
   }
   .paragb{
-    font-family: "Nunito Sans",sans-serif;  line-height: 28px; font-size: 17px;
+    font-family: "Nunito Sans",sans-serif;  line-height: 29px; font-size: 18px;
     color: #3a3838; width: 80% ; text-align: justify; margin: auto;
   }
   .Ass1 {
     width: 65%;
     float: left;
     margin-top: -20px;
-    margin-left: 20px;
+    margin-left: 45px;
   }
   .table {
     font-size: 15px;
