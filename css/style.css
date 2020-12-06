@@ -177,7 +177,7 @@
   .heading {
         font-weight: lighter; 
          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-         text-align: center;
+         text-align: center; color: cornflowerblue;
   }
   .paraH {
     font-family: "Nunito Sans",sans-serif;  line-height: 29px; font-size: 18px;
