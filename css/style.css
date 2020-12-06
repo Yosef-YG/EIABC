@@ -228,4 +228,13 @@
   .table {
     font-size: 15px;
   }
- 
+
+  .contact{
+    text-align: center;
+  }
+  .conta {font-family: "Nunito Sans",sans-serif;  line-height: 30px; font-size: 21px;
+    color: #3a3838; 
+    margin-left: 240px;
+    background-color: #f4f4f4;
+    width: 40%;
+   }
